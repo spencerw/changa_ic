@@ -3,6 +3,7 @@ achOutName      = output
 iOutInterval    = 1
 iLogInterval    = 1
 iCheckInterval  = 1000000000
+bDoDensity      = 0
 
 bDoGravity      = 1
 bCollision      = 0
