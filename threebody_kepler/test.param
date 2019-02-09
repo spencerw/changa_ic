@@ -1,0 +1,17 @@
+achInFile       = ic.bin
+achOutName      = output
+iOutInterval    = 10
+iLogInterval    = 1
+iCheckInterval  = 1000000000
+
+bDoGravity      = 1
+bCollision      = 0
+
+dKpcUnit = 4.8481368e-09
+dMsolUnit = 1
+# Time unit = 1 year / 2*pi
+
+nSteps          = 31400
+dDelta          = 0.11857824421
+bGravStep       = 0
+bEpsAccStep     = 0
