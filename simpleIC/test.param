@@ -12,7 +12,7 @@ dKpcUnit = 4.8481368e-09
 dMsolUnit = 1
 # Time unit = 1 year / 2*pi
 
-nSteps          = 5
-dDelta          = 1.0
+nSteps          = 10
+dDelta          = 0.5
 bGravStep       = 0
 bEpsAccStep     = 0
