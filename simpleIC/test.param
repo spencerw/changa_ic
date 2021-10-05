@@ -4,10 +4,11 @@ iOutInterval    = 1
 iLogInterval    = 1
 iCheckInterval  = 1000000000
 bDoDensity      = 0
+bDoDark         = 1
 
-bDoGravity      = 1
+bDoGravity      = 0
 bCollision      = 1
-bAllowMergers   = 1
+iCollModel      = 2
 
 dKpcUnit = 4.8481368e-09
 dMsolUnit = 1
